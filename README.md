@@ -2,4 +2,4 @@
 
 ## Reinforcement plane animation
 
-![](.gif)
+![](Reinforcement_plane_animation/Snaps/plane.gif)
